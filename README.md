@@ -38,6 +38,7 @@ Each problem requires the creation of Java classes with specific attributes and 
 - `TestDate.java`: Test class for demonstrating `Date` class functionality.
 - `Time.java`: Contains the `Time` class for time manipulation.
 - `TestTime.java`: Test class for demonstrating `Time` class functionality.
+- `Assessment Reflection QAP1.pdf`: required assessment for QAP1.
 
 ## Running the Tests
 To run the tests, compile each of the test classes along with its corresponding main class using a Java compiler and execute the resulting bytecode. Example:
